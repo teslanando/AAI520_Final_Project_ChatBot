@@ -1,6 +1,7 @@
 # AAI520_Final_Project_ChatBot
 
 # ChatterBot
+https://huggingface.co/sglasher/ChatterBotQA
 
 ## Description
 This repository contains code for a final project for the NLP class at the University of San Diego. The project focuses on building a question-answering system using the DistilBERT model to handle multilingual contexts while utilizing Hugging Face's Transformers library.
@@ -32,7 +33,7 @@ To run the code in this repository, follow these steps:
 1. Open the Jupyter notebook `ChatterBotQA.ipynb` in Google Colab.
 2. Mount your Google Drive using the provided code in the notebook.
 3. Run the notebook cells in sequence to execute the project code.
-4. See it live via: 
+4. See it live via: https://huggingface.co/sglasher/ChatterBotQA
 
 ## Acknowledgements
 This project was completed as a part of the NLP class at the University of San Diego.
