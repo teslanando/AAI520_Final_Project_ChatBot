@@ -23,7 +23,7 @@ The project involves the following major steps:
 The project is structured as follows:
 
 - `ChatterBotQA.ipynb`: Jupyter notebook containing the code and step-by-step explanation of the project.
-- `qa.csv`: Dataset saved as a CSV file for convenience.
+- `SQuAD.zip`: Stanford Question Answering Database, retrieved from: https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset
 - `README.md`: This file, providing an overview of the project.
 
 ## Instructions for Running the Code
